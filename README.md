@@ -1,9 +1,10 @@
-### Name: Ragul VK
+### Developed by: Ragul VK
 ### Register Number: 212221240043
-# Ex.No: 01 PLOT A TIME SERIES DATA
+# Date : 
+# Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data temperature.
+To develop a Python program that plots daily temperature data from "DailyDelhiClimateTrain.csv" to visualize climate trends in Delhi over time.
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
