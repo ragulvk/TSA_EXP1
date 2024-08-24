@@ -1,6 +1,5 @@
 ### Developed by: Ragul VK
 ### Register Number: 212221240043
-# Date : 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
